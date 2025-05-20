@@ -62,6 +62,7 @@ I'm currently running macOS Sonoma 14.7.6, and don't plan on updating it until A
 - ✅ Battery Status
 - ✅ Brightness Keys
 - ✅ Sleep
+- ✅ FileVault encryption 
 
 ---
 
