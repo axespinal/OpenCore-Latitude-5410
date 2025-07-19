@@ -12,7 +12,7 @@ Acidanthera removed some patches in `BrcmPatchRAM` 2.7.0 to "[improve] performan
 
 ## macOS Ventura 13 and older
 
-You don't need OCLP root patching. Please follow these steps: [I don't need root patching](./docs/amfi.md)
+You don't need OCLP root patching. Please follow these steps: [I don't need root patching](./amfi.md)
 
 ---
 
