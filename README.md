@@ -1,8 +1,10 @@
 # OpenCore EFI for Dell Latitude 5410
 
-This is my personal OpenCore EFI configuration for running macOS Sequoia 15.5 on the **Dell Latitude 5410**.
+This was my OpenCore EFI configuration for running macOS Sequoia 15.5 on the **Dell Latitude 5410**.
 
-I may update the repo from time to time, as this is my daily driver. If you have any concerns or suggestions, please feel free to submit a commit or open an issue.
+It was fun setting it up and, while it's usable, Intel macOS is dead - and Hackintoshing, by extension, died too. Also, macOS on a 1080p 14" screen is horrible.
+
+This repo will not receive any further updates, and will remain archived. Have fun with it.
 
 ---
 
